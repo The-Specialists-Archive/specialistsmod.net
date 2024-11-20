@@ -1,0 +1,40 @@
+/* Fancy form styles for IE */
+
+input, textarea, select {
+border-top-width : 1px; 
+border-right-width : 1px; 
+border-bottom-width : 1px; 
+border-left-width : 1px;  
+}
+
+input { text-indent : 2px; }
+
+input.button {
+border-top-width : 1px; 
+border-right-width : 1px; 
+border-bottom-width : 1px; 
+border-left-width : 1px;  
+}
+
+.postbody { line-height: 18px}
+
+/*
+     FILE ARCHIVED ON 06:33:39 Nov 08, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:01:30 Nov 20, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.469
+  exclusion.robots: 0.018
+  exclusion.robots.policy: 0.008
+  esindex: 0.009
+  cdx.remote: 30.869
+  LoadShardBlock: 166.28 (3)
+  PetaboxLoader3.datanode: 198.797 (4)
+  PetaboxLoader3.resolve: 252.089 (2)
+  load_resource: 319.954
+*/

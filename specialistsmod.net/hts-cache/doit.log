@@ -1,0 +1,8 @@
+-qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://web.archive.org/web/20071008034150/http://www.specialistsmod.net/ https://web.archive.org/web/20071008034150/http://www.specialistsmod.net/media/media.html https://web.archive.org/web/20071008034150/http://www.specialistsmod.net/files/files.htm https://web.archive.org/web/20071008034150/http://www.specialistsmod.net/links/links.html https://web.archive.org/web/20071008034150/http://www.specialistsmod.net/team/team.htm https://web.archive.org/web/20071008034150/http://www.specialistsmod.net/about/intro.htm https://web.archive.org/web/20071008034150/http://www.specialistsmod.net/faq/faq.htm https://web.archive.org/web/20071008062239/http://forums.specialistsmod.net/ -O1 "D:\GIT Storage\The-Specialists-Archive\specialistsmod.net\specialistsmod.net" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Wed, 20 Nov 2024 01:57:17, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
